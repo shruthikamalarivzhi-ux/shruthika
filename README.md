@@ -1,2 +1,2 @@
 # shruthika
-it is a name<add>letters
+it is a name
